@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pract18Ver2</string>
+    <string name="textview">TextView</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="add_record">Добавить запись</string>
+    <string name="delete_record">Удалить запись</string>
+    <string name="box">Корзина</string>
+</resources>
